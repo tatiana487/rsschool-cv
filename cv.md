@@ -15,12 +15,18 @@ I have no programming experience, I did not participate in projects. But I have 
 
 ## Code example
 
+```
+function multiply(a, b){
+  return a * b
+}
+```
 
 ## Education
 
 * St. Petersburg State Institute of Technology
    * *process engineer*
    * *economist*
+* Courses: *Canshicode HTML/CSS*
 
 ## English level
 
